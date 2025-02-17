@@ -1,0 +1,20 @@
+
+body{
+    background-color: rgba(122, 120, 111, 0.429)
+}
+
+.textp {
+    max-width: 700px;
+}
+
+@media screen and (min-width: 600px) {
+
+    .img {
+        /*position: fixed;*/
+        float:right;
+        bottom: 200px;
+        right: 20px;
+        border: solid;
+        padding: 10px;
+    }
+}
